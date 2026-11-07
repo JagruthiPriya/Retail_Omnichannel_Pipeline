@@ -1,0 +1,6 @@
+customer_id,customer_name,email,city,state,updated_at
+101,John Smith,john@gmail.com,Hyderabad,Telangana,2026-11-05 10:00:00
+102,Jane Doe,jane@gmail.com,Bangalore,Karnataka,2026-11-05 11:00:00
+103,Alice Brown,alice@gmail.com,Mumbai,Maharashtra,2026-11-06 09:00:00
+104,David Wilson,david@gmail.com,Chennai,Tamil Nadu,2026-11-06 12:00:00
+105,Robert Lee,robert@gmail.com,Hyderabad,Telangana,2026-11-07 09:00:00

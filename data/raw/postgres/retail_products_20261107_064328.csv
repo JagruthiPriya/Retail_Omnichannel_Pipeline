@@ -1,0 +1,6 @@
+product_id,product_name,category,unit_price,updated_at
+201,Laptop,Electronics,50000.0,2026-11-05 10:00:00
+202,Mobile,Electronics,20000.0,2026-11-05 11:00:00
+203,Headphones,Accessories,2500.0,2026-11-06 09:00:00
+204,Keyboard,Accessories,1500.0,2026-11-06 12:00:00
+205,Mouse,Accessories,800.0,2026-11-07 09:00:00
